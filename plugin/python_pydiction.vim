@@ -50,7 +50,6 @@
 "            NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 "            THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 "
-"
 
 if v:version < 700
     echoerr "Pydiction requires vim version 7 or greater."
