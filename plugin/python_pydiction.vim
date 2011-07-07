@@ -64,7 +64,7 @@ inoremap <silent> <buffer> <c-j>
          \<C-R>=<SID>RestoreVals()<CR>
 
 " Make Shift+Tab do python code completion in the reverse direction:
-inoremap <silent> <buffer> <S-j> 
+inoremap <silent> <buffer> <A-j> 
          \<C-R>=<SID>SetVals()<CR>
          \<C-R>=<SID>TabComplete('up')<CR>
          \<C-R>=<SID>RestoreVals()<CR>
